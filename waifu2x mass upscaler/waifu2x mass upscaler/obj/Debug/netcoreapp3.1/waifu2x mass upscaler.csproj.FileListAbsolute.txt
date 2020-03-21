@@ -1,0 +1,15 @@
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.exe
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.deps.json
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.runtimeconfig.json
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.runtimeconfig.dev.json
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.dll
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\bin\Debug\netcoreapp3.1\waifu2x mass upscaler.pdb
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.csprojAssemblyReference.cache
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.csproj.GenerateResource.cache
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.csproj.CoreCompileInputs.cache
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.AssemblyInfoInputs.cache
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.AssemblyInfo.cs
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.dll
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.pdb
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x mass upscaler.genruntimeconfig.cache
+C:\Users\dhodu\Dropbox\waifu2x mass upscaler\waifu2x mass upscaler\obj\Debug\netcoreapp3.1\waifu2x_mass_upscaler.MainWindow.resources
