@@ -14,17 +14,40 @@ namespace waifu2x_mass_upscaler
 
         private void UpscaleButton_Click(object sender, EventArgs e)
         {
+            UpscaleButton.Enabled = false;
+
+            int noiseReduction;
+            if (int.TryParse(NoiseReductionTextbox.Text, out noiseReduction))
+            {
+                //parsing successful 
+            }
+            else
+            {
+                MessageBox.Show("Please enter a number from -1 to 3");
+            }
+            int scaleLevel;
+            if (int.TryParse(ScaleTextbox.Text, out scaleLevel))
+            {
+                //parsing successful 
+            }
+            else
+            {
+                MessageBox.Show("Please enter 1 or 2");
+            }
             string[] fileEntries = Directory.GetFiles(@"..\to upscale");
             UpscaleProgressBar.Maximum = fileEntries.Length;
             UpscaleProgressBar.Value = 0;
+            UpscaleProgressBar.Step = 1;
             foreach (string fileName in fileEntries)
             {
-                if (fileName.EndsWith(".jpg") || fileName.EndsWith(".jpeg") || fileName.EndsWith(".png"))
+                if (fileName.EndsWith(".jpg") || fileName.EndsWith(".jpeg") || fileName.EndsWith(".png") || fileName.EndsWith(".JPG") || fileName.EndsWith(".JPEG") || fileName.EndsWith(".PNG"))
                 {
                     Upscale(@"..\to upscale\" + fileName, 3, 2);
                 }
                 UpscaleProgressBar.PerformStep();
             }
+            MessageBox.Show("Upscaling complete!");
+            UpscaleButton.Enabled = true;
         }
 
         static void Upscale(string filePath, int noiseReductionLevel, int scaleLevel)
